@@ -93,6 +93,3 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 
 * Use Bootstrap to structure your HTML template.
 
-## Copyright
-
-Trilogy Education Services © 2017. All Rights Reserved.
